@@ -21,7 +21,7 @@ This [Tableau Dashcard](https://public.tableau.com/views/StockMarketAnalysis_161
 # Tableau Dashboard 2
 ### [Stock Market Performance Prediction](https://public.tableau.com/views/StockMarketPrediction_16157795216330/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
 
-![Stock Market Prediction](Images/stock_prediction.png)
+![Stock Market Prediction](Images/stocks_prediction.jpeg)
 
 ## Background and Description
 How does the stock market perform overtime? What are the trends for the stock market's decline and recovery overtime? How would the information help us make a more informed decision when investing in the stock market in the future? 
