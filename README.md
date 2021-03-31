@@ -1,6 +1,6 @@
 # Tableau Dashboards
 
-![Data](Images/data.jpeg)
+![Data](Image/data.jpeg)
 
 ## CITI Bike User Information Analysis
 * Tableau Public: [Biker User Information (Janurary vs. July)](https://public.tableau.com/views/Homework_16145381512240/Dashboard1?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
