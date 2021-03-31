@@ -30,8 +30,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
 
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
-
 * Today, what is the gender breakdown of active participants (Male v. Female)?
 
 * How effective has gender outreach been in increasing female ridership over the timespan?
@@ -43,4 +41,19 @@ However, while the data has been regularly updated, the team has yet to implemen
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan?
 
 * How variable is the utilization by bike ID?
+
+
+## Visualization Summary
+* There are more bike users in summer than in winter.
+
+* In winter, the majority of the biker users are subscribers. However, in summer, there is a nearly balanced amount of customers and subscribers.
+
+* In winter, there are much more male users than female users. In summer, there are balanced amount of male and female users.
+
+* The average trip duration time in summer is longer than in winter.
+
+## Conclusions
+* This visualization suggests that we should target our service and advertisement more heavily on subscribers during winter time. More importantly, we should attract more subscribers right before winter time.
+
+* The maintainance team should check the bikes' condition before summer time to ensure that all bikes are in good shape for longer trips during summer.
 
